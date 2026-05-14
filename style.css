@@ -1,0 +1,16 @@
+body {
+  font-family: Arial;
+  padding: 40px;
+  background-color: #f5f0ff;
+}
+
+h1 {
+  color: purple;
+}
+h3 {
+  color : pink;
+}
+
+button {
+  padding: 10px;
+}
